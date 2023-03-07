@@ -18,13 +18,6 @@ The code utilizes the Edge TTS API for online TTS and the pyttsx3 library for lo
   ```bash
   pip install -r requirements.txt
   ```
-
-  OR
-
-  ```bash
-  pip install edge-tts winsound pyttsx3 pydub requests
-  ```
-
   in the command prompt or terminal.
 
 ## Usage
