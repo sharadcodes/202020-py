@@ -1,4 +1,4 @@
-# 20-20-20 Rule Reminder with TTS
+# 20-20-20 Py
 
 ## Description:
 
