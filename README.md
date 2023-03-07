@@ -13,7 +13,7 @@ The code utilizes the Edge TTS API for online TTS and the pyttsx3 library for lo
 - Run `cd ./202020-py/`
 - Install the required libraries by running the command
 
-  Run either
+  Run
 
   ```bash
   pip install -r requirements.txt
@@ -22,7 +22,7 @@ The code utilizes the Edge TTS API for online TTS and the pyttsx3 library for lo
 
 ## Usage
 
-To use the script, simply run the main.py file in the command line or terminal using the command
+To use the script, simply run the python file in the command line or terminal using the command
 
 ```bash
 python 202020.py
